@@ -1,0 +1,14 @@
+TestIn_cpp:
+  description: TestIn Component
+  hash: 49231b1594c14c59e8cb7b9b23a3cb8cde969bcf
+  name: TestIn_cpp
+  repo_name: TestIn_cpp
+  type: git
+  url: https://bd00git03.nes.sec.co.jp:8888/gitlab/p2417/development/components/TestIn_cpp.git
+TestOut_cpp:
+  description: TestOut Component
+  hash: 3f0adc5a25ccac2276d478f9ce6c95cae71cc09a
+  name: TestOut_cpp
+  repo_name: TestOut_cpp
+  type: git
+  url: https://bd00git03.nes.sec.co.jp:8888/gitlab/p2417/development/components/TestOut_cpp.git
